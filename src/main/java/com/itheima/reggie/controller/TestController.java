@@ -8,6 +8,6 @@ public class TestController {
 
     @GetMapping(value = "/test",produces = "text/plain;charset=UTF-8")
     public String test() {
-        return "小芙蓉";
+        return "小笨蛋";
     }
 }
